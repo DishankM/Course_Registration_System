@@ -50,3 +50,5 @@ npm install
 
 ### ▶️ Start Frontend Server
 npm run dev
+
+![alt text](image.png)
